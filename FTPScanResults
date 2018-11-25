@@ -1,0 +1,8 @@
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: bob Password: 12345
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: amanda Password: abc12345
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: 12345
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: abc12345
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: admin
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: toor
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: root
+b'\r\n230 Login successful.\r\nRemote system type is UNIX.\r\nUsing binary mode to transfer files.\r\n' IP: 10.0.4.33 Username: anonymous Password: anonymous
